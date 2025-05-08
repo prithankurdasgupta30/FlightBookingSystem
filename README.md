@@ -1,0 +1,1 @@
+This is a simple Fligth Booking System, where the database is managed by MySQL and the backend is done through Java. The UI is done using Java Swing. Important jar files used for connection between MySQL-Java and GSON-Java are mysql-connector-j-9.3.0 and gson-2.2.2 
